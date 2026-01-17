@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968580739556",
+    "project_id": "map-pro-a3g76f",
+    "storage_bucket": "map-pro-a3g76f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968580739556:android:2f5314f2708b0ba33757f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.flutterflowmaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI7Db5OxjJ7S4_HTOdGO2_nd6yKtBXDZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
